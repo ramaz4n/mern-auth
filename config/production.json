@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"mongoUri": "mongodb://localhost/app",
+	"jwtSecret": "ramazan",
+	"baseUrl": "http://localhost/5000"
+}
